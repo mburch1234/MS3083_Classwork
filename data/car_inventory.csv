@@ -1,0 +1,11 @@
+car_id,make,model,year,color,price,in_stock
+1,Toyota,Camry,2022,Blue,28500,TRUE
+2,Honda,Accord,2023,Silver,32000,TRUE
+3,Ford,Mustang,2021,Red,45000,TRUE
+4,Chevrolet,Corvette,2023,Yellow,75000,FALSE
+5,Tesla,Model 3,2023,White,48000,TRUE
+6,BMW,X5,2022,Black,65000,TRUE
+7,Mercedes,C-Class,2023,Gray,55000,TRUE
+8,Audi,A4,2022,Blue,47000,FALSE
+9,Nissan,Altima,2021,Silver,26000,TRUE
+10,Mazda,CX-5,2023,Red,35000,TRUE

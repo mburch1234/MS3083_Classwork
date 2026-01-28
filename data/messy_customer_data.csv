@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,registration_date
+1,John,Smith,john.smith@email.com,(555) 123-4567,123 Main St,Springfield,IL,62701,2023-12-01
+2,Mary,Jones,mary.jones@email.com,555-234-5678,456 Oak Ave,Chicago,IL,60601,2024-01-05
+3,Robert,Brown,rbrown@email.com,(555)345-6789,789 Pine Rd,Peoria,IL,61602,2024-01-20
+4,,,,555.456.7890,321 Elm St,Rockford,IL,61101,2024-02-01
+5,Lisa,Martinez,lisa.m@email.com,(555) 567-8901,654 Maple Dr,Naperville,IL,60540,2024-02-15
+6,James,Wilson,j.wilson@email.com,5556789012,987 Cedar Ln,Aurora,IL,60502,2024-02-28
+7,Patricia,Garcia,pgarcia@email.com,(555) 789-0123,147 Birch Ave,Joliet,IL,60431,2024-03-10
+8,Michael,Rodriguez,m.rodriguez@email.com,555-890-1234,258 Walnut St,Elgin,IL,60120,2024-03-25
+9,Jennifer,Lee,jlee@email.com,(555)901-2345,369 Spruce Rd,Waukegan,IL,60085,2024-04-08
+10,David,Kim,david.kim@email.com,555 012 3456,741 Ash Dr,Champaign,IL,61820,2024-04-22
+11,Sarah,Thompson,sthompson@email.com,(555) 123-4567,852 Poplar Ln,Decatur,IL,62521,2024-05-05
+12,Christopher,Martinez,cmartinez@email.com,555.234.5678,963 Willow Ave,Bloomington,IL,61701,2024-05-20
+13,Jessica,Anderson,jessica.a@email.com,(555)345-6789,159 Hickory St,Springfield,IL,62702,2024-06-01
+14,Daniel,White,,555-456-7890,357 Magnolia Rd,Quincy,IL,62301,2024-06-15
+15,Emily,Davis,edavis@email.com,(555) 567-8901,486 Dogwood Dr,Rock Island,IL,61201,2024-07-01
+16,Matthew,Brown,mbrown@email.com,5558901234,753 Sycamore Ln,Moline,IL,61265,2024-07-18
+17,Amanda,Wilson,awilson@email.com,(555) 901-2345,864 Chestnut Ave,Carbondale,IL,62901,2024-08-02
+18,Joshua,Garcia,jgarcia@email.com,555-012-3456,975 Beech St,Urbana,IL,61801,2024-08-20
+19,Ashley,Martinez,amartinez@email.com,(555)123-4567,135 Fir Rd,Normal,IL,61761,2024-09-05
+20,Andrew,Johnson,ajohnson@email.com,555 234 5678,246 Hemlock Dr,Evanston,IL,60201,2024-09-22

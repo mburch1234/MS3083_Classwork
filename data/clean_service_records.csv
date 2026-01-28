@@ -1,0 +1,21 @@
+service_id,vin,service_date,service_type,mechanic_name,labor_cost,parts_cost,notes
+1,1HGBH41JXMN109186,2024-03-15,Oil Change,Mike Johnson,45,25.5,Regular maintenance
+2,1HGCM82633A123456,2024-03-22,Brake Repair,Mike Johnson,120,85,Replaced front brake pads
+3,5YJSA1E14HF123456,2024-04-01,Tire Rotation,Sarah Williams,35,0,Rotated all four tires
+4,1HGBH41JXMN109186,2024-04-15,Transmission Service,Mike Johnson,250,150,Fluid change and filter
+5,1G1ZD5ST8HF109186,2024-05-10,Oil Change,Sarah Williams,45,0,Standard oil change
+6,1HGCM82633A123456,2024-05-20,Engine Diagnostic,Sarah Williams,95,0,Check engine light diagnosis
+7,5YJSA1E14HF123456,2024-06-01,Battery Replacement,Mike Johnson,50,120,New battery installed
+8,1FAHP3K29CL123456,2024-06-10,Oil Change,Sarah Williams,45,28,Synthetic oil
+9,1HGBH41JXMN109186,2024-07-15,Brake Repair,Mike Johnson,0,95,Rear brake pads
+10,1G1ZD5ST8HF109186,2024-07-22,Tire Rotation,Mike Johnson,35,0,NA
+11,1HGCM82633A123456,2024-08-05,Air Filter,Sarah Williams,30,15,Replaced cabin air filter
+12,5YJSA1E14HF123456,2024-08-15,Oil Change,Sarah Williams,45,30,Regular service
+13,1FAHP3K29CL123456,2024-09-01,Transmission Service,Mike Johnson,250,0,Complete transmission flush
+14,1HGBH41JXMN109186,2024-09-12,Oil Change,Sarah Williams,45,25.5,NA
+15,1G1ZD5ST8HF109186,2024-10-01,Brake Repair,Mike Johnson,135,92,Front and rear brake inspection
+16,1HGCM82633A123456,2024-10-15,Tire Rotation,Sarah Williams,35,0,Standard rotation
+17,5YJSA1E14HF123456,2024-11-01,Battery Diagnostic,Mike Johnson,40,0,Battery test - passed
+18,1FAHP3K29CL123456,2024-11-10,Oil Change,Mike Johnson,45,28,Synthetic blend
+19,1HGBH41JXMN109186,2024-11-20,Engine Tune-Up,Sarah Williams,180,120,Spark plugs and wires replaced
+20,1G1ZD5ST8HF109186,2024-11-25,Oil Change,Mike Johnson,45,25.5,Regular maintenance check

@@ -1,0 +1,21 @@
+sale_id,customer_name,vehicle_make,vehicle_model,sale_date,sale_price,salesperson,payment_method,trade_in_value
+1,John Smith,toyota,camry,2024-01-15,28500,Bob Johnson,Cash,5000
+2,Mary Jones,honda,accord,2024-01-22,31200,Sarah Williams,Financing,0
+3,Robert Brown,ford,mustang,2024-02-05,45000,Bob Johnson,Cash,8500.5
+4,Unknown Customer,toyota,rav4,2024-02-10,32000,Mike Davis,Lease,0
+5,Lisa Martinez,honda,civic,2024-02-28,24500,Sarah Williams,Cash,3000
+6,James Wilson,ford,f-150,2024-03-12,52000,Bob Johnson,Financing,12000
+7,Patricia Garcia,tesla,model 3,2024-03-20,48000,Mike Davis,Cash,0
+8,Michael Rodriguez,toyota,highlander,2024-04-08,42000,Sarah Williams,Financing,9500
+9,Jennifer Lee,honda,cr-v,2024-04-15,29500,Bob Johnson,Cash,4500
+10,David Kim,ford,explorer,2024-05-02,38000,Mike Davis,Lease,7000
+11,Sarah Thompson,toyota,corolla,2024-05-18,22000,Sarah Williams,Cash,2000
+12,Christopher Martinez,honda,pilot,2024-06-05,40500,Bob Johnson,Financing,10000
+13,Jessica Anderson,ford,escape,2024-06-22,28000,Mike Davis,Cash,0
+14,Daniel White,tesla,model y,2024-07-10,52000,Sarah Williams,Financing,0
+15,Emily Davis,toyota,4runner,2024-07-25,45500,Bob Johnson,Cash,11000
+16,Matthew Brown,honda,odyssey,2024-08-12,38000,Mike Davis,Lease,6500
+17,Amanda Wilson,ford,bronco,2024-08-20,42000,Sarah Williams,Cash,8000
+18,Joshua Garcia,toyota,tundra,2024-09-15,48500,Bob Johnson,Financing,13500
+19,Ashley Martinez,honda,ridgeline,2024-09-28,39000,Mike Davis,Cash,7500
+20,Andrew Johnson,ford,ranger,2024-10-10,32000,Sarah Williams,Financing,5500

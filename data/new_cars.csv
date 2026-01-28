@@ -1,0 +1,6 @@
+car_id,make,model,year,color,price,in_stock
+11,Volkswagen,Jetta,2022,White,24500,TRUE
+12,Hyundai,Sonata,2023,Black,29000,TRUE
+13,Kia,Optima,2021,Blue,25000,FALSE
+14,Subaru,Outback,2023,Green,36000,TRUE
+15,Jeep,Wrangler,2022,Orange,42000,TRUE

@@ -1,0 +1,21 @@
+warranty_id,vehicle_id,warranty_type,provider,start_date,end_date,coverage_amount,deductible,status
+1,1,Extended Warranty,Premium Auto Protection,2024-01-15,2027-01-15,5000.00,100.00,Active
+2,2,POWERTRAIN,premium auto protection,2024-01-22,2029-01-22,7500.00,150.00,active
+3,3,extended warranty,Complete Coverage Inc,01/28/2024,01/28/2027,5000.00,100.00,Active
+4,4,Bumper to Bumper,COMPLETE COVERAGE INC,2024-02-05,2027-02-05,10000.00,0.00,active
+5,5,Extended Warranty,Premium Auto Protection,02/12/2024,02/12/2027,5000.00,,ACTIVE
+6,6,powertrain,Complete Coverage Inc,2024-02-20,2029-02-20,7500.00,150.00,Active
+7,7,EXTENDED WARRANTY,premium auto protection,2024-03-01,2027-03-01,5000.00,100.00,active
+8,8,Bumper to Bumper,Complete Coverage Inc,03/10/2024,03/10/2027,10000.00,0.00,Active
+9,9,extended warranty,PREMIUM AUTO PROTECTION,2024-03-22,2027-03-22,,100.00,active
+10,10,Powertrain,Complete Coverage Inc,2024-04-01,2029-04-01,7500.00,150.00,ACTIVE
+11,11,EXTENDED WARRANTY,Premium Auto Protection,04/15/2024,04/15/2027,5000.00,100.00,Active
+12,12,bumper to bumper,complete coverage inc,2024-05-01,2027-05-01,10000.00,0.00,active
+13,13,Extended Warranty,Premium Auto Protection,05/12/2024,05/12/2027,5000.00,,Active
+14,14,POWERTRAIN,Complete Coverage Inc,2024-06-01,2029-06-01,7500.00,150.00,ACTIVE
+15,15,extended warranty,Premium Auto Protection,06/10/2024,06/10/2027,5000.00,100.00,active
+16,16,Bumper to Bumper,COMPLETE COVERAGE INC,2024-07-01,2027-07-01,10000.00,0.00,Active
+17,17,powertrain,Premium Auto Protection,07/15/2024,07/15/2029,7500.00,150.00,active
+18,18,Extended Warranty,complete coverage inc,2024-08-01,2027-08-01,5000.00,100.00,ACTIVE
+19,19,BUMPER TO BUMPER,Premium Auto Protection,2024-09-01,2027-09-01,10000.00,0.00,Active
+20,20,Extended Warranty,Complete Coverage Inc,09/12/2024,09/12/2027,5000.00,100.00,active

@@ -1,0 +1,11 @@
+salesperson_id,salesperson_name,hire_date,email,phone,commission_rate,department,status
+1,Mike Johnson,2020-05-15,mjohnson@dealership.com,(555) 111-2222,0.03,Sales,active
+2,Sarah Williams,2019-03-20,swilliams@dealership.com,(555) 333-4444,0.035,Sales,active
+3,Robert Brown,2021-08-10,rbrown@dealership.com,(555) 555-6666,0.03,Sales,active
+4,Emily Davis,2022-01-15,edavis@dealership.com,(555) 777-8888,0.025,Sales,active
+5,Michael Chen,2020-11-01,mchen@dealership.com,(555) 999-0000,0.03,Sales,active
+6,Jessica Martinez,2021-06-12,jmartinez@dealership.com,(555) 123-4567,0.03,Sales,active
+7,David Kim,2023-02-28,dkim@dealership.com,(555) 987-6543,0.03,Sales,inactive
+8,Lisa Anderson,2019-09-05,landerson@dealership.com,(555) 246-8135,0.035,Sales,active
+9,James Wilson,2022-07-20,employee9@dealership.com,(555) 159-7532,0.03,Sales,active
+10,Maria Garcia,2021-04-18,mgarcia@dealership.com,(555) 864-2097,0.03,Sales,active
